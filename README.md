@@ -3,8 +3,7 @@
                            
                            
                            
-                           <img width="522" alt="Sheet 1" src="https://github.com/vikhyat-andro/Accenture-Data-Analysis/assets/51722249/4b645391-6035-424d-b419-13663f6c356e">
-
+                          
 
 
 
